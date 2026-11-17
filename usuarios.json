@@ -1,0 +1,17 @@
+{
+  "usuarios": {
+    "admin@empresa.com": {
+      "nombre": "Administrador General",
+      "email": "admin@empresa.com",
+      "username": "admin",
+      "salt": "4736f3d3ed33383cba5e9b45f8608ba0",
+      "hash": "2bf1b7335eb221e0064514472ccdee9036944034edc724aa8f38bf48828f577c",
+      "rol": "admin",
+      "activo": true,
+      "fecha_registro": "2026-11-13 17:00:00",
+      "debe_cambiar_password": true
+    }
+  },
+  "pendientes": {},
+  "recuperaciones": {}
+}
