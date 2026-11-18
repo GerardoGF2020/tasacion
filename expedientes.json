@@ -1,0 +1,36 @@
+[
+  {
+    "id": "TAS-2026-001",
+    "titulo": "Terreno Barrio Bernel - Lote 12",
+    "tipo_inmueble": "Terreno Urbano",
+    "direccion": "Barrio Bernel, Manzana C, Yerba Buena",
+    "frente": 15.0,
+    "fondo": 30.0,
+    "superficie_m2": 450.0,
+    "valor_unitario": 85000.0,
+    "valor_total": 38250000.0,
+    "estado": "🟡 Borrador (A medias)",
+    "creado_por": "Carlos Gómez (Operador)",
+    "ultima_modificacion_por": "Carlos Gómez (Operador)",
+    "fecha_creacion": "2026-11-18 10:15",
+    "fecha_modificacion": "2026-11-18 10:15",
+    "observaciones": "Relevamiento de medidas en campo. Pendiente aplicar coeficiente Fitte y Cervini por perito."
+  },
+  {
+    "id": "TAS-2026-002",
+    "titulo": "Vivienda Unifamiliar Calle San Martín",
+    "tipo_inmueble": "Casa Residencial",
+    "direccion": "San Martín 1420, San Miguel de Tucumán",
+    "frente": 10.0,
+    "fondo": 25.0,
+    "superficie_m2": 250.0,
+    "valor_unitario": 120000.0,
+    "valor_total": 30000000.0,
+    "estado": "🟢 Finalizada",
+    "creado_por": "Administrador General",
+    "ultima_modificacion_por": "Administrador General",
+    "fecha_creacion": "2026-11-17 16:40",
+    "fecha_modificacion": "2026-11-17 18:20",
+    "observaciones": "Tasación completa con método comparativo y valores de mercado validados."
+  }
+]
